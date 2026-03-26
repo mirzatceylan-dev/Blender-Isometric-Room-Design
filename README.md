@@ -16,7 +16,7 @@ TNC Group tarafından belirlenen kriterler doğrultusunda:
 - **İzometrik Kamera:** Orthographic kamera açısı ile teknik derinlik sağlandı.
 
 ## 🖼 Render Çıktıları
-![Final Render](renders/final_render.png)
+![Final Render](Mirzat_Ceylan_Render01.png)
 *Projenin final halinden bir kesit.*
 
 ## 📂 Klasör Yapısı
