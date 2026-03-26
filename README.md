@@ -20,6 +20,6 @@ TNC Group tarafından belirlenen kriterler doğrultusunda:
 *Projenin final halinden bir kesit.*
 
 ## 📂 Klasör Yapısı
-- `/source`: `.blend` dosyası.
-- `/renders`: Final render ve wireframe görüntüleri.
-- `/docs`: Proje yönergesi ve teknik rapor.
+- `Mirzat_Ceylan_IzometrikOda_v01.blend.blend`: `.blend` dosyası.
+- `Mirzat_Ceylan_Render01.png`: Final render ve wireframe görüntüsü.
+- `BLENDER PROJE YÖNERGESİ.pdf`: Proje yönergesi ve teknik rapor.
